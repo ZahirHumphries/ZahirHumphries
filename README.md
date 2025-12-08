@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Zahir! 👋
 
-<!--
-**ZahirHumphries/ZahirHumphries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I’m Zahir Humphries, a Software Engineer at Synopsys with interest in Backend Development, cloud engineering and Artificial Intelligence, My focus is to gain new experiences and sharpen my already existing knowledge in coding where skills of problem solving, effective communication, innovation and resilience are indispensable.
 
-Here are some ideas to get you started:
+📬 Reach Out!
+Reach out to me through my linkedin or my email: humphrieszahir4@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📦 Language and Tools
+
+Backend Development:
+  Languages: Java, Python, Go
+  Database: PostgreSQL
+  Cloud/DevOps: AWS, Linux, Git
+  Java Frameworks: Spring, Spring Boot
+  Testing/Building: Junit, Mockito, Maven, Gradle
+
+🧱 Tech Stack
+    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+    
+    
+    
