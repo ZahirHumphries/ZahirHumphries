@@ -3,7 +3,7 @@
 Hi! I’m Zahir Humphries, a Software Engineer at Synopsys with interest in Backend Development, cloud engineering and Artificial Intelligence, My focus is to gain new experiences and sharpen my already existing knowledge in coding where skills of problem solving, effective communication, innovation and resilience are indispensable.
 
 📬 Reach Out!
-Reach out to me through my https://www.linkedin.com/in/zahirhumphries or my email: humphrieszahir4@gmail.com
+Reach out to me through my [linkedin](https://www.linkedin.com/in/zahirhumphries) or my email: humphrieszahir4@gmail.com
 
 📦 Language and Tools
 
