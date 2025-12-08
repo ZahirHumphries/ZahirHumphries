@@ -6,7 +6,7 @@ Hi! I’m Zahir Humphries, a Software Engineer at Synopsys with interest in Back
 Reach out to me through my [linkedin](https://www.linkedin.com/in/zahirhumphries) or my email: humphrieszahir4@gmail.com
 
 📦 Language and Tools
-Backend Developmnent
+
   * Languages:
       * Java, Python, Go
   * Database:
