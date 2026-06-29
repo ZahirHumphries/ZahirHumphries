@@ -1,6 +1,10 @@
-## Hi, I'm Zahir! 👋
+Hi, I'm Zahir Humphries. 👋
 
-Hi! I’m Zahir Humphries, a Software Engineer at Synopsys with interest in Backend Development, cloud engineering and Artificial Intelligence, My focus is to gain new experiences and sharpen my already existing knowledge in coding where skills of problem solving, effective communication, innovation and resilience are indispensable.
+💻 I'm a Junior Software Engineer at iPipeline, where I build AI and backend solutions for the insurance and wealth technology industry as part of the Emerging Professionals Program.
+
+My work primarily involves Python, AWS, Terraform/Terragrunt, and AI technologies. I'm especially interested in backend engineering, distributed systems, cloud-native applications, infrastructure, databases, and designing reliable, scalable software. Above all, I enjoy solving challenging technical problems and continuously learning.
+
+Beyond my technical work, I'm passionate about engineering excellence, career development in tech, and increasing representation in the industry. I hope to make an impact through both the software I build and by helping others learn, grow, and navigate their careers in technology.
 
 📬 Reach Out!
 Reach out to me through my [linkedin](https://www.linkedin.com/in/zahirhumphries) or my email: humphrieszahir4@gmail.com
